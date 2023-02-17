@@ -1,0 +1,8 @@
+sklearn
+re
+streamlit
+pandas
+matplotlib
+numpy
+pickle
+xgboost
