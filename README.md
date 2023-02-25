@@ -1,5 +1,5 @@
 # Salary-Prediction-App
-Web App to predict salary of software developers using the public Stack Overflow Developer 2020 Survey dataset and creating
+Web App to predict salary of software developers using the public Stack Overflow Developer 2020 Survey dataset
 
 ### Data Collection and preprocessing
 1. Link to Dataset: https://insights.stackoverflow.com/survey
